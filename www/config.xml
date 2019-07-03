@@ -3,31 +3,17 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-<<<<<<< HEAD
-        id        = "com.yeapps.test"
-        version   = "4.0.22">
+        id        = "com.yeapps.POST-IT"
+        version   = "4.0.01">
 
-    <name>TEST</name>
+    <name>POST-IT</name>
 
     <description>
-       TSET
+       M-Reporting
     </description>
 
     <author href="businesssolutionapps.com" email="info@im-gp.com">
         Business Solution Apps Team
-=======
-        id        = "com.yeapps.cabm"
-        version   = "1.0.0">
-
-    <name>CABM</name>
-
-    <description>
-       CABM
-    </description>
-
-    <author href="businesssolutionapps.com" email="sabbir456@gmail.com">
-        Md. Faisal Hossain
->>>>>>> origin/master
     </author>
 
     <!--
@@ -68,10 +54,6 @@
 
     <!-- Core plugins -->
     <plugin name="cordova-plugin-battery-status" />
-<<<<<<< HEAD
-=======
-    <plugin name="cordova-plugin-camera" />
->>>>>>> origin/master
     <plugin name="cordova-plugin-media-capture" />
     <plugin name="cordova-plugin-console" />
     <plugin name="cordova-plugin-contacts" />
@@ -79,11 +61,6 @@
     <plugin name="cordova-plugin-device-motion" />
     <plugin name="cordova-plugin-device-orientation" />
     <plugin name="cordova-plugin-dialogs" />
-<<<<<<< HEAD
-=======
-    <plugin name="cordova-plugin-file" />
-    <plugin name="cordova-plugin-file-transfer" />
->>>>>>> origin/master
     <plugin name="cordova-plugin-geolocation" />
     <plugin name="cordova-plugin-globalization" />
     <plugin name="cordova-plugin-inappbrowser" />
@@ -91,12 +68,9 @@
     <plugin name="cordova-plugin-network-information" />
     <plugin name="cordova-plugin-splashscreen" />
     <plugin name="cordova-plugin-vibration" />
-<<<<<<< HEAD
 	<plugin name="cordova-plugin-camera" version="2.4.1" />
 	<plugin name="cordova-plugin-file" version="4.3.3"/>
 	<plugin name="cordova-plugin-file-transfer" version="1.6.3" />
-=======
->>>>>>> origin/master
 
     <!-- Third party plugins -->
     <!-- A list of available plugins are available at https://build.phonegap.com/plugins -->
