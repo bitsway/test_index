@@ -3,13 +3,13 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.yeapps.POST-IT"
+        id        = "com.yeapps.in"
         version   = "4.0.01">
 
-    <name>POST-IT</name>
+    <name>Test Index</name>
 
     <description>
-       M-Reporting
+       Test Index
     </description>
 
     <author href="businesssolutionapps.com" email="info@im-gp.com">
